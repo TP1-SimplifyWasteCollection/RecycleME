@@ -7,7 +7,7 @@ Next.js 13 - дай бог будет, а там посмотрим
 npm run dev
 ```
 
-Потом открываем локалхост[http://localhost:3000](локалхост)
+Потом открываем [http://localhost:3000](локалхост)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
